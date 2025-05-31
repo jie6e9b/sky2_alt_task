@@ -63,6 +63,7 @@ class Task(BaseTask, PrintMixin):
 
 if __name__== "__main__":
     task_1 = Task("Купить огурцы", "Купить огурцы для салата", run_time=60)  # При этом вызовется метод
+
     # __repr__ из класса PrintMixin
 
     print(task_1.name)
