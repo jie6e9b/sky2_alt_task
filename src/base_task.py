@@ -7,4 +7,3 @@ class BaseTask(ABC):
     @abstractmethod
     def new_task(cls, *args, **kwargs):
         pass
-    

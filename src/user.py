@@ -1,4 +1,3 @@
-# Продолжение работы над задачей из lesson1, lesson2 (уроки 14_1_9, 14_2_8)
 from src.exceptions import ZeroRuntimeTask
 from src.task import Task
 
